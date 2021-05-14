@@ -30,9 +30,10 @@ Build a simple Shop web application with 4 pages:
 - UX optimization.
 
 ## Submit the assignment
-Once you've completed, invite [thanhpd@dwarvesv.com](https://bubble.io/video-course/how-to-add-collaborators-to-your-app-1609874044316x110062457707560960) as a collaborator.
+Once you've completed, please send the credentials to access your Bubble app to [thanhpd@dwarvesv.com](https://bubble.io/video-course/how-to-add-collaborators-to-your-app-1609874044316x110062457707560960). We expect you can complete the assessment within 3 days. Please reach out if you have any question.
 
-## Please reach out if you have any question.
 Thanh Pham
+
+[thanhpd@dwarvesv.com](https://bubble.io/video-course/how-to-add-collaborators-to-your-app-1609874044316x110062457707560960)
 
 Frontend Engineer | [Dwarves Foundation](https://dwarves.foundation/)
