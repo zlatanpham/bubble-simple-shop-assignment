@@ -30,7 +30,7 @@ Build a simple Shop web application with 4 pages:
 - UX optimization.
 
 ## Submit the assignment
-Once you've completed, please send the credentials to access your Bubble app to [thanhpd@dwarvesv.com](https://bubble.io/video-course/how-to-add-collaborators-to-your-app-1609874044316x110062457707560960). We expect you can complete the assessment within 3 days. Please reach out if you have any question.
+Once you've completed, set your app public (Settings > General > Application rights > Everyone can view) and send the [app id](https://forum.bubble.io/t/change-the-app-id/84509) to [thanhpd@dwarvesv.com](https://bubble.io/video-course/how-to-add-collaborators-to-your-app-1609874044316x110062457707560960). We expect you can complete the assessment within 3 days. Please reach out if you have any question.
 
 Thanh Pham
 
